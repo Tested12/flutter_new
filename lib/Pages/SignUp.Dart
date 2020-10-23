@@ -1,6 +1,7 @@
-import 'file:///C:/Users/user/AndroidStudioProjects/flutter_new/lib/Pages/Home.Dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_new/Pages/Login.Dart';
+import 'package:flutter_new/Pages/Home.Dart';
 
 class SignUp extends StatefulWidget{
   @override

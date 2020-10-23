@@ -1,5 +1,5 @@
 import 'package:flutter_new/Pages/SignUp.Dart';
-import 'file:///C:/Users/user/AndroidStudioProjects/flutter_new/lib/Pages/Home.Dart';
+import 'package:flutter_new/Pages/Home.Dart';
 import 'package:flutter/material.dart';
 
 class Login extends StatefulWidget{

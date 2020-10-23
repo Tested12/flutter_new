@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'file:///C:/Users/user/AndroidStudioProjects/flutter_new/lib/Pages/Login.Dart';
+import 'package:flutter_new/Pages/Login.Dart';
 
 void main() {
   //something in splash screen
